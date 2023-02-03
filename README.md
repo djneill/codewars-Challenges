@@ -1,2 +1,2 @@
 # codewars-Challenges
-Solutions for codewars challenges
+Saving some of the challenges and solutions from my code wars adventures. 
